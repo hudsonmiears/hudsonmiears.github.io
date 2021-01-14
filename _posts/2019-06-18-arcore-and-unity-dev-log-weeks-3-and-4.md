@@ -33,9 +33,10 @@ When I was researching the best way to do this, there were a few people online s
 
 This was way outside the scope of my project, and I had an inkling of a better idea. Based on my own understanding of ARCore, objects in the AR scene are in their own coordinate space just as any game would handle position information. If I have a known location in the real world, and I know where all of the objects should be placed relative to that location, can't I just repopulate the objects each session? All that needs to be done is to make sure that users start each session with their device in the same location.
 
-Indeed, [some people on this github issue](https://github.com/google-ar/arcore-android-sdk/issues/94) have already mentioned this as a possibility, but I didn't find anybody who had shared exactly how to do that.<figure class="wp-block-image">
+Indeed, [some people on this github issue](https://github.com/google-ar/arcore-android-sdk/issues/94) have already mentioned this as a possibility, but I didn't find anybody who had shared exactly how to do that.
 
-<img src="https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-1024x768.jpg" alt="" class="wp-image-133" srcset="https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-1024x768.jpg 1024w, https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-300x225.jpg 300w, https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Unexceptional thoughts only become unexceptional when they're written on paper.</figcaption></figure> 
+![](/wp-content/uploads/2019/06/savingloading-1024x768.jpg)
+Unexceptional thoughts only become unexceptional when they're written on paper. 
 
 #### Formatting
 

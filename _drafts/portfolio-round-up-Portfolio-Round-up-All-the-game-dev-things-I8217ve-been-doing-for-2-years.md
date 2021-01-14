@@ -20,7 +20,7 @@ I'm happy to share the source code for any of these projects if you like, just l
 ### Third Person Camera Controller.
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://hudsonmiears.com/wp-content/uploads/2019/07/thirdpersoncameracontroller.gif" alt="" class="wp-image-155" /></figure>
+  <figure class="aligncenter"><img src="/wp-content/uploads/2019/07/thirdpersoncameracontroller.gif" alt="" class="wp-image-155" /></figure>
 </div>
 
 Cameras are important in games, and I think about them a lot. In this demo I wanted to see what it would take to create a _good_ third person camera controller, inspired by [this talk by John Nesky](https://youtu.be/C7307qRmlMI). I did this while trying to emulate the movement of the old Star Fox games.
@@ -31,7 +31,7 @@ The camera moves in relation with the ship's movements. In addition, I used the 
 
 I'm really proud of this demo; I think it's a great combination of programming and design decisions! 
 
-### ARCore + Unity Dissertation Project<figure class="wp-block-video aligncenter"><video controls src="https://hudsonmiears.com/wp-content/uploads/2019/07/arcore-cloud-upload-download.mp4"></video><figcaption>
+### ARCore + Unity Dissertation Project<figure class="wp-block-video aligncenter"><video controls src="/wp-content/uploads/2019/07/arcore-cloud-upload-download.mp4"></video><figcaption>
 
 _In this video you can see an object being placed in the world, uploaded to the cloud, and downloaded again the next time the app opens._</figcaption></figure> 
 
@@ -41,7 +41,7 @@ My dissertation project has been well documented so far, and you can find dev lo
 
 The project as a whole is focused on UX design and phenomenology. As I move into the future, I'm certainly interested in pursuing these ideas further and in different directions!
 
-### Hoverbike Demo<figure class="wp-block-video aligncenter"><video controls src="https://hudsonmiears.com/wp-content/uploads/2019/07/smoothernow.mp4"></video></figure> 
+### Hoverbike Demo<figure class="wp-block-video aligncenter"><video controls src="/wp-content/uploads/2019/07/smoothernow.mp4"></video></figure> 
 
 I really like playing with fake physics, because the veneer of physics is often more important than simulation. Hovercar tutorials are ubiquitous online! But the only thing cooler than a hovercar is a hoverbike.
 
@@ -66,7 +66,7 @@ The challenge with game jams is scope, and so all of these projects are quite sm
 ### A Game By Its Cover&#8211;Current project
 
 <div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://hudsonmiears.com/wp-content/uploads/2019/07/fakephonewithcamera.gif" alt="" class="wp-image-151" /><figcaption><em>The game will feature a fake phone with its own camera.</em></figcaption></figure>
+  <figure class="aligncenter"><img src="/wp-content/uploads/2019/07/fakephonewithcamera.gif" alt="" class="wp-image-151" /><figcaption><em>The game will feature a fake phone with its own camera.</em></figcaption></figure>
 </div>
 
 My current project is being made for [A Game By Its Cover jam](https://itch.io/jam/a-game-by-its-cover-2019). Inspired by [this famicase cartridge](http://www.translatetheweb.com/?from=&to=en&dl=en&a=http%3A%2F%2Ffamicase.com%2F13%2Fsofts%2F58.html), the game will consist of searching through a forest to find and record a video of bigfoot. At its current stage, I've been working on creating an in-game phone to use as the user interface. 

@@ -26,9 +26,11 @@ With any project I prefer to learn the basic technological tools that I have at 
 
 One of the biggest lessons I learned in the Android project was that time spent on learning is a crucial part of development time, so I really wanted to give some of the [Unity+ARCore tutorials](https://developers.google.com/ar/develop/unity/quickstart-android) a go. My focus for week one was to understand the basics of how ARCore works so that I could use that for design considerations later on. I want to build a minimum viable product first so that any design decisions I make are well-informed and don't take excessive time to implement.
 
-Of course, I started with a basic idea of what I want my ARCore app to look like. I created a rough flow diagram to visualize it below.<figure class="wp-block-image">
+Of course, I started with a basic idea of what I want my ARCore app to look like. I created a rough flow diagram to visualize it below.
 
-<img src="https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg" alt="" class="wp-image-116" srcset="https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg 1024w, https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-300x217.jpg 300w, https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-768x556.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Left: Admin use case. Right: Normal user.</figcaption></figure> 
+![Left: Admin use case. Right: Normal user.](/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg)
+
+_Left: Admin use case. Right: Normal user._
 
 The basic idea is this: admins will be able to place 3D models around the real world. Attached to the 3D models are audio recordings. Normal users will find the 3D models, &#8216;pick them up' (eg. by pinch-zooming), and listen to the audio recording through the small ear speaker.
 

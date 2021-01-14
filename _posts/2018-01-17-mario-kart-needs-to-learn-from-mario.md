@@ -22,7 +22,7 @@ I bought Mario Kart 8 Deluxe recently, and it's a very exciting game full of coo
 
 &nbsp;
 
-<figure style="width: 667px" class="wp-caption aligncenter">[<img class="" src="https://www.mariowiki.com/images/d/df/MK8DX_Background_MC.png" alt="Via mariowiki.com" width="667" height="375" />](https://www.mariowiki.com/Gallery:Mario_Kart_8_Deluxe)<figcaption class="wp-caption-text">Racing gets turned on its head.</figcaption></figure>
+![Racing gets turned on its head.](https://www.mariowiki.com/images/d/df/MK8DX_Background_MC.png)
 
 It's improved on past iterations in the same way that every Mario Kart game has since MK64: add new tracks, new characters, new items, and a few tidbits here and there like more kart customization and, this time, crazy upside-down tracks. It's futuristic!
 
@@ -60,7 +60,7 @@ But it's not just blue shells. The bullet bill, designed to give a huge boost to
 
 &nbsp;
 
-<figure style="width: 668px" class="wp-caption aligncenter">[<img class="" src="https://vignette.wikia.nocookie.net/mariokart/images/1/1b/Donkey_Kong_-_Mario_Kart_7_Artwork.png/revision/latest?cb=20171115115723" alt="Via mariokart.wikia.com" width="668" height="860" />](http://mariokart.wikia.com/wiki/Spiny_Shell)<figcaption class="wp-caption-text">Impressive foot dexterity.</figcaption></figure>
+<img src="https://vignette.wikia.nocookie.net/mariokart/images/1/1b/Donkey_Kong_-_Mario_Kart_7_Artwork.png/revision/latest?cb=20171115115723.jpg" height="256px">
 
 The only skill-based items in Mario Kart are the green shells, which you have to aim correctly and avoid when they bounce against walls; the mushrooms, which work with the level design to provide shortcuts; the bob-omb, which has to be both aimed and timed to hit somebody with a blast; the boomerang and fireflower, which also have to be aimed; and the bananas, which are&#8230;kinda boring.
 
@@ -86,7 +86,7 @@ The other items in Sonic are pretty skill-oriented, too. It seems that Sumo Digi
 
 &nbsp;
 
-<figure style="width: 661px" class="wp-caption aligncenter">[<img class="" src="https://steamuserimages-a.akamaihd.net/ugc/884112698586822840/0D62EF3056839FC572195E5BC01FA7398A15F5FB/" alt="Via Shred VII's guide on Steam." width="661" height="413" />](http://steamcommunity.com/sharedfiles/filedetails/?id=157677829)<figcaption class="wp-caption-text">I'm not sure about the theming, though.</figcaption></figure>
+![I'm not sure about the theming, though.](https://steamuserimages-a.akamaihd.net/ugc/884112698586822840/0D62EF3056839FC572195E5BC01FA7398A15F5FB/)
 
 Diddy Kong Racing takes a different approach. While it does have heat-seeking missiles and invincibility items, there's no random chance involved. Items are picked up by driving into colored balloons which denote which item is inside. Driving into the same color of balloon multiple times will power up your items. This lets you choose a strategy for each race: I know I can pick up two red balloons and get a heat-seeking missile if I take this route instead of the other, or I could give up the missile and take a blue boost balloon instead. While the items themselves don't always test your driving skills, picking up the correct item and making a strategy do.
 
@@ -129,7 +129,7 @@ In DK Jungle, there are these big [screaming pillars](https://www.mariowiki.com/
 
 The track, like Mount Wario, is linear, so you don't loop back to the start line. At the start is a straight path which forks into two roads. The left-hand road is a fake-out; you can't reach it, because a screaming pillar to the left of the track blows you toward the right-hand road.
 
-<figure style="width: 584px" class="wp-caption aligncenter">[<img class="size-medium" src="https://www.mariowiki.com/images/1/13/MK7_Screaming_Pillars.png" alt="Via mariowiki.com" width="584" height="351" />](https://www.mariowiki.com/Screaming_Pillar#Mario_Kart_series)<figcaption class="wp-caption-text">They also have bad breath.</figcaption></figure>
+![They also have bad breath.](https://www.mariowiki.com/images/1/13/MK7_Screaming_Pillars.png)
 
 Now that you've seen what a screaming pillar does, when you see another ahead of you, you get pretty scared&#8212;it will push you into a bottomless pit&#8212;but just before it is a boost pad, and you find that going so fast lets you avoid the danger. Suddenly, you're armed with the knowledge that the screaming pillars will blow you off-course, but if you can get a boost before them, you won't get blown.
 
@@ -139,7 +139,9 @@ And the twist? For the next section of the course, you have to _use the screami
 
 The track is broken up into platforms like the end of Grumble Volcano. At each platform is a screaming pillar preceded by a ramp. The platforms are staggered to the left and right, so you can't just drive in a straight line. Instead you have to get pushed by the screaming pillars so that you'll land on the next platform. If you take the boost, you'll drive straight into death, so you have to recognize the layout of the course and choose to get blown to the side.
 
-<figure style="width: 418px" class="wp-caption aligncenter"><img src="https://i.imgur.com/yBug94A.png" alt="I'm not an artist" width="418" height="418" /><figcaption class="wp-caption-text">The blue circles are screaming pillars; the green bars are boostpads; the yellow bars are ramps.</figcaption></figure>
+![The blue circles are screaming pillars; the green bars are boostpads; the yellow bars are ramps.](https://i.imgur.com/yBug94A.png)
+
+The blue circles are screaming pillars; the green bars are boostpads; the yellow bars are ramps.
 
 And finally, the end presents you with a series of screaming pillars, ramps, and boosts. Sometimes the boosts are in front of you; sometimes they're only reachable if you've been blown by a screaming pillar. So a player who's learned the mechanics of the track will be able to skillfully decide for each ramp whether they should do a trick or not to hit the next boost pad.
 

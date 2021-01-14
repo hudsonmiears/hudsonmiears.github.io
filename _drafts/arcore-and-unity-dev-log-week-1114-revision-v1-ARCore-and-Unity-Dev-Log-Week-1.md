@@ -16,7 +16,7 @@ One of the biggest lessons I learned in the Android project was that time spent 
 
 Of course, I started with a basic idea of what I want my ARCore app to look like. I created a rough flow diagram to visualize it below.<figure class="wp-block-image">
 
-<img src="https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg" alt="" class="wp-image-116" srcset="https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg 1024w, https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-300x217.jpg 300w, https://hudsonmiears.com/wp-content/uploads/2019/05/IMG_20190528_115311-1-768x556.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Left: Admin use case. Right: Normal user.</figcaption></figure> 
+<img src="/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg" alt="" class="wp-image-116" srcset="/wp-content/uploads/2019/05/IMG_20190528_115311-1-1024x742.jpg 1024w, /wp-content/uploads/2019/05/IMG_20190528_115311-1-300x217.jpg 300w, /wp-content/uploads/2019/05/IMG_20190528_115311-1-768x556.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Left: Admin use case. Right: Normal user.</figcaption></figure> 
 
 The basic idea is this: admins will be able to place 3D models around the real world. Attached to the 3D models are audio recordings. Normal users will find the 3D models, &#8216;pick them up' (eg. by pinch-zooming), and listen to the audio recording through the small ear speaker.
 

@@ -31,9 +31,8 @@ Days 1 and 2 (28 and 29 May) were personal days for myself to work on my CV, wri
 
 On Thursday I started reading Tim Ingold's book &#8216;Perception of the Environment'. So far I'd recommend it to anyone even slightly interested in the topic. Tim Ingold is an anthropologist, and the book is a collection of essays which attempt to bring together two sides of anthropology: the side that describes everything according to scientific rules like natural selection, and the side that describes everything according to cultural constructs. That's a huge simplification, so don't take my word for it.
 
-<div class="wp-block-image">
-  <figure class="aligncenter is-resized"><img src="https://hudsonmiears.com/wp-content/uploads/2019/06/thoughts30to35-e1559649311878-768x1024.jpg" alt="" class="wp-image-121" width="384" height="512" srcset="https://hudsonmiears.com/wp-content/uploads/2019/06/thoughts30to35-e1559649311878-768x1024.jpg 768w, https://hudsonmiears.com/wp-content/uploads/2019/06/thoughts30to35-e1559649311878-225x300.jpg 225w" sizes="(max-width: 384px) 100vw, 384px" /><figcaption>My handwriting devolved as my pen scratched across the page at lightning speed.</figcaption></figure>
-</div>
+![](/wp-content/uploads/2019/06/thoughts30to35-e1559649311878-768x1024.jpg)
+My handwriting devolved as my pen scratched across the page at lightning speed.
 
 I'm finding this book very useful in consolidating a lot of the free-floating ideas in the theory portion of this project. It must have taken twice as long to read a single chapter as another book might have, because I kept looking away to write a note to myself later. Here are two passages I found particularly compelling. The first regards nature; the second regards how we acquire knowledge of the world around us.
 

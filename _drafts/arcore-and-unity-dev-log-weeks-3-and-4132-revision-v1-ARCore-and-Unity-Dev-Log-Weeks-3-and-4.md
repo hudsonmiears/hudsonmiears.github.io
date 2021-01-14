@@ -22,7 +22,7 @@ This was way outside the scope of my project, and I had an inkling of a better i
 
 Indeed, [some people on this github issue](https://github.com/google-ar/arcore-android-sdk/issues/94) have already mentioned this as a possibility, but I didn't find anybody who had shared exactly how to do that.<figure class="wp-block-image">
 
-<img src="https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-1024x768.jpg" alt="" class="wp-image-133" srcset="https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-1024x768.jpg 1024w, https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-300x225.jpg 300w, https://hudsonmiears.com/wp-content/uploads/2019/06/savingloading-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Unexceptional thoughts only become unexceptional when they're written on paper.</figcaption></figure> 
+<img src="/wp-content/uploads/2019/06/savingloading-1024x768.jpg" alt="" class="wp-image-133" srcset="/wp-content/uploads/2019/06/savingloading-1024x768.jpg 1024w, /wp-content/uploads/2019/06/savingloading-300x225.jpg 300w, /wp-content/uploads/2019/06/savingloading-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Unexceptional thoughts only become unexceptional when they're written on paper.</figcaption></figure> 
 
 #### Formatting
 

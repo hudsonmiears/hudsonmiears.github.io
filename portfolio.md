@@ -15,20 +15,12 @@ I'm happy to share the source code for any of these projects if you like, just l
 
 ### Roller Ball Kart Demo
 
-<ul class="wp-block-gallery columns-3 is-cropped">
-  <li class="blocks-gallery-item">
-    <figure><img src="https://hudsonmiears.com/wp-content/uploads/2020/09/kart_racer_v_0_0_3_loop-1.gif" alt="" data-id="232" data-link="https://hudsonmiears.com/portfolio/kart_racer_v_0_0_3_loop-1/" class="wp-image-232" /><figcaption>Loop-de-loops</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img src="https://hudsonmiears.com/wp-content/uploads/2020/09/kart_racer_v_0_0_5_countersteering-2.gif" alt="" data-id="233" data-link="https://hudsonmiears.com/portfolio/kart_racer_v_0_0_5_countersteering-2/" class="wp-image-233" /><figcaption>Countersteering</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img src="https://hudsonmiears.com/wp-content/uploads/2020/09/kart_racer_v_0_0_7_driving_on_wall-1.gif" alt="" data-id="234" data-link="https://hudsonmiears.com/portfolio/kart_racer_v_0_0_7_driving_on_wall-1/" class="wp-image-234" /><figcaption>Driving on the wall</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img src="https://hudsonmiears.com/wp-content/uploads/2020/09/kart_racer_v_0_0_5_splitscreen-3.gif" alt="" data-id="230" class="wp-image-230" /><figcaption>Local splitscreen</figcaption></figure>
-  </li>
-</ul>
+-----|-----
+![Loop-de-loops](/wp-content/uploads/2020/09/kart_racer_v_0_0_3_loop.gif)|![Countersteering](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_countersteering-2.gif)
+Loop-de-loops | Countersteering
+![Driving on the wall](/wp-content/uploads/2020/09/kart_racer_v_0_0_7_driving_on_wall-1.gif)|![Local splitscreen](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_splitscreen-3.gif)
+Driving on the wall | Local splitscreen
+
 
 <p class="has-medium-font-size">
   <a href="https://reizoukin.itch.io/kart-racer-demos">Play Here</a>
@@ -36,24 +28,24 @@ I'm happy to share the source code for any of these projects if you like, just l
 
 At the beginning of the year I spent several weeks prototyping some fun karting movement in Unity based on a technique described by [Kenney](https://twitter.com/kenneynl/status/1107783904784715788?lang=en). The results are super satisfying and I would really love to turn this into a Diddy Kong Racing-style racing adventure game one day, given the opportunity.
 
-### Cabooze<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+### Cabooze
 
-<div class="wp-block-embed__wrapper">
-</div></figure> <figure class="wp-block-image">
-
-<img src="https://hudsonmiears.com/wp-content/uploads/2020/09/cinemachineshowoff.gif" alt="" class="wp-image-220" /> <figcaption>Cabooze features fun use of cinemachine cameras and point-and-click movement.</figcaption></figure> 
+![](/wp-content/uploads/2020/09/cinemachineshowoff.gif)
+Cabooze features fun use of cinemachine cameras and point-and-click movement.
 
 Cabooze is my ongoing project which I've been documenting with dev logs on my YouTube channel. The end goal is to create a short, narrative game inspired by Spiritfarer, Paper Mario, and classic Point-and-clicks. The game will feature small minigames to represent different steps in the beer-brewing process. Keep up to date [here](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg?view_as=subscriber).
 
-### Hoverbike Demo<figure class="wp-block-video aligncenter"><video controls src="https://hudsonmiears.com/wp-content/uploads/2019/07/smoothernow.mp4"></video></figure> 
+### Hoverbike Demo
+
+<video autoplay="autoplay" loop="loop" width="100%" height="512" controls >
+  <source src="/wp-content/uploads/2019/07/smoothernow.mp4" type="video/mp4">
+</video>
 
 Before I created the rolling ball motorcycle controller above, I experimented with using hover car physics, ie. adding upward forces to the motorcycle based on raycasts aimed at the ground. The results were pretty satisfying, but too bouncy for my tastes. Nevertheless I can see this being a fun, sci-fi style bike controller for a future project.
 
 ### Third Person Camera Controller.
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://hudsonmiears.com/wp-content/uploads/2019/07/thirdpersoncameracontroller.gif" alt="" class="wp-image-155" /></figure>
-</div>
+![](/wp-content/uploads/2019/07/thirdpersoncameracontroller.gif)
 
 Cameras are important in games, and I think about them a lot. In this demo I wanted to see what it would take to create a _good_ third person camera controller, inspired by [this talk by John Nesky](https://youtu.be/C7307qRmlMI). I did this while trying to emulate the movement of the old Star Fox games.
 
@@ -67,26 +59,25 @@ Unfortunately, I discovered Unity's Cinemachine shortly after creating this, but
 
 ### Text message dialogue with Yarnspinner<figure class="wp-block-image">
 
-<img src="https://hudsonmiears.com/wp-content/uploads/2020/09/messageswithyarnspinner3-1.gif" alt="" class="wp-image-218" /> </figure> 
+![](/wp-content/uploads/2020/09/messageswithyarnspinner3-1.gif)
 
 UI in Unity has always been a struggle for me, so I decided to go all in on a complex demo. The text is supplied by [Yarnspinner](https://yarnspinner.dev/), which is fairly painless to use and quick to set up. The message bubbles are positioned manually every update. Perhaps the hardest part of this project was sizing the text bubbles dynamically, which involves some strange interactions between components and children in Unity.
 
 ### Smartphone UI
 
-<div class="wp-block-image">
-  <figure class="aligncenter"><img src="https://hudsonmiears.com/wp-content/uploads/2019/07/fakephonewithcamera.gif" alt="" class="wp-image-151" /></figure>
-</div>
+![](/wp-content/uploads/2019/07/fakephonewithcamera.gif)
 
 This was another, earlier attempt to learn UI in Unity, and I think the results speak for themselves. All of this is built with the standard Unity UI and a render texture; the phone's clock comes from the System time.
 
 ## Other stuff
 
-### ARCore + Unity Dissertation Project<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+### ARCore + Unity Dissertation Project
 
-<div class="wp-block-embed__wrapper">
-</div><figcaption> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b8h-r0bhitY
+" target="_blank"><img src="http://img.youtube.com/vi/b8h-r0bhitY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-_This video demonstrates uploading and downloading object positions to and from the cloud._ </figcaption></figure> 
+_This video demonstrates uploading and downloading object positions to and from the cloud._
 
 My dissertation project was well documented, and you can find dev logs for it [on my blog](https://hudsonmiears.com/blog/). On the Unity side of things, the challenge was to develop an AR experience that keeps objects consistently in the same place in a small environment. 
 
@@ -98,7 +89,9 @@ For the first six months at my current job, I worked on the ArcGIS Runtime SDK f
 
 ### Game Jam Games
 
-Game jams are great, and I've had a lot of fun participating in Ludum Dare, Global Game Jam, and others through my development journey.<figure></figure> 
+Game jams are great, and I've had a lot of fun participating in Ludum Dare, Global Game Jam, and others through my development journey.
+
+<iframe src="https://itch.io/embed/778731" width="552" height="167" frameborder="0"><a href="https://thrasher08.itch.io/king-fisher">King Fisher by Thrasher08, fricochet, autumnpioneer, Hudson Miears, katieemmaw</a></iframe>
 
 Above is our entry to the Wholesome Game Jam, a 48 hour jam in October 2020. I worked as the main programmer on the team and I was quite proud of the fishing mechanics.
 
