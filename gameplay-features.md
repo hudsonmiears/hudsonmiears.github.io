@@ -33,7 +33,7 @@ document.getElementById("defaultOpen").click();
   <table>
     <tr>
         <td><img src="/demos/kart_racer_v_0_0_7_driving_on_wall.gif"/></td>
-        <td><video loop="loop" width="100%" height="512" controls >
+        <td><video preload="metadata" loop="loop" width="100%" height="512" controls >
   <source src="/wp-content/uploads/2019/07/smoothernow.mp4" type="video/mp4">
 </video></td>
     </tr>
@@ -59,7 +59,7 @@ document.getElementById("defaultOpen").click();
   <table>
     <tr>
         <td><img src="/wp-content/uploads/2020/09/cinemachineshowoff.gif"/></td>
-        <td><video  loop="loop" width="100%" height="512" controls >
+        <td><video preload="metadata"  loop="loop" width="100%" height="512" controls >
   <source src="/wp-content/uploads/2019/07/smoothernow.mp4" type="video/mp4">
 </video></td>
     </tr>
@@ -76,7 +76,7 @@ document.getElementById("defaultOpen").click();
 
   <table>
     <tr>
-        <td><video  loop="loop" width="100%" height="512" controls >
+        <td><video preload="metadata"  loop="loop" width="100%" height="512" controls >
   <source src="/demos/CaboozeDemoJanuaryMp4.mp4" type="video/mp4">
 </video></td>
         <td><img src="/demos/insidetent.gif"/></td>
@@ -110,7 +110,7 @@ document.getElementById("defaultOpen").click();
 
   <table>
     <tr>
-        <td><video  loop="loop" width="100%" height="512" controls><source src="/demos/CaboozeClipSmoothPP.mp4" type="video/mp4"></video></td>
+        <td><video preload="metadata"  loop="loop" width="100%" height="512" controls><source src="/demos/CaboozeClipSmoothPP.mp4" type="video/mp4"></video></td>
     </tr>
     <tr>
         <td>I wanted to have four separate times of day for Cabooze, and I achieved this with lighting, a custom skybox, and post-processing effects. Switching between them was jarring, though, so I used DOTween to interpolate each of the post-processing effects for a smooth transition.</td>
@@ -126,7 +126,7 @@ document.getElementById("defaultOpen").click();
       <td><a href="http://www.youtube.com/watch?feature=player_embedded&v=b8h-r0bhitY
 " target="_blank"><img src="http://img.youtube.com/vi/b8h-r0bhitY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></td>
-      <td><video  loop="loop" width="100%" height="512" controls><source src="/demos/manageoperationallayers.mp4" type="video/mp4"></video></td>
+      <td><video preload="metadata"  loop="loop" width="100%" height="512" controls><source src="/demos/manageoperationallayers.mp4" type="video/mp4"></video></td>
     </tr>
     <tr>
       <td>
