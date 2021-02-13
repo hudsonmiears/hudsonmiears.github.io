@@ -8,9 +8,28 @@ This is where I share gifs and demos of what I’ve been working on!
 
 I’m happy to share the source code for any of these projects if you like, just let me know at hudson@hudsonmiears.com!
 
-<details>
-  <summary>Movement</summary>
+C<em>lick on any of the tabs below to see some footage.</em>
 
+<script src="{{ base.url | prepend: site.url }}/demos/tabs.js"></script>
+<link rel="stylesheet" href="/demos/tabs.css">
+
+<div class="tab">
+  <button class="tablinks" onclick="openSection(event, 'Movement')" id="defaultOpen">Movement</button>
+  <button class="tablinks" onclick="openSection(event, 'Cameras')">Cameras</button>
+  <button class="tablinks" onclick="openSection(event, 'Dialogue')">Dialogue</button>
+  <button class="tablinks" onclick="openSection(event, 'UI')">UI</button>
+  <button class="tablinks" onclick="openSection(event, 'Post-processing')">Post-processing</button>
+  <button class="tablinks" onclick="openSection(event, 'Software-development')">Software Development</button> 
+</div>
+
+<script>
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+<!-- Tab content -->
+<div id="Movement" class="tabcontent">
+  <h2>Movement</h2>
   <table>
     <tr>
         <td><img src="/demos/kart_racer_v_0_0_7_driving_on_wall.gif"/></td>
@@ -31,9 +50,11 @@ I’m happy to share the source code for any of these projects if you like, just
         <td>I did this while trying to emulate the movement of the old Star Fox games. The movement itself is achieved my aiming the ship at a target with an offset ahead of the ship. There’s some artificial rolling there, too.</td>
     </tr>
   </table>
-</details>
-<details>
-  <summary>Cameras</summary>
+
+</div>
+
+<div id="Cameras" class="tabcontent">
+  <h2>Cameras</h2>
 
   <table>
     <tr>
@@ -47,9 +68,11 @@ I’m happy to share the source code for any of these projects if you like, just
         <td>Before Cinemachine was a possibility, I wanted to try out one of the techniques from <a href="https://youtu.be/C7307qRmlMI">this talk</a> regarding how you avoid obstacles in a third-person camera controller. I used raycast "whiskers" which detect incoming obstacles and move the camera to an optimal position to avoid them.</td>
     </tr>
   </table>
-</details>
-<details>
-  <summary>Dialogue</summary>
+
+</div>
+
+<div id="Dialogue" class="tabcontent">
+  <h2>Dialogue</h2>
 
   <table>
     <tr>
@@ -63,9 +86,11 @@ I’m happy to share the source code for any of these projects if you like, just
         <td>Yarnspinner is really quick to get working in Unity. I hooked it up to Febucci's Text Animator here.</td>
     </tr>
   </table>
-</details>
-<details>
-  <summary>UI</summary>
+
+</div>
+
+<div id="UI" class="tabcontent">
+  <h2>UI</h2>
 
   <table>
     <tr>
@@ -77,9 +102,11 @@ I’m happy to share the source code for any of these projects if you like, just
         <td>This was another, earlier attempt to learn UI in Unity, and I think the results speak for themselves. All of this is built with the standard Unity UI and a render texture; the phone’s clock comes from the System time.</td>
     </tr>
   </table>
-</details>
-<details>
-  <summary>Post-processing</summary>
+
+</div>
+
+<div id="Post-processing" class="tabcontent">
+  <h2>Post-processing</h2>
 
   <table>
     <tr>
@@ -89,9 +116,10 @@ I’m happy to share the source code for any of these projects if you like, just
         <td>I wanted to have four separate times of day for Cabooze, and I achieved this with lighting, a custom skybox, and post-processing effects. Switching between them was jarring, though, so I used DOTween to interpolate each of the post-processing effects for a smooth transition.</td>
     </tr>
   </table>
-</details>
-<details>
-  <summary>Software Development</summary>
+</div>
+
+<div id="Software-development" class="tabcontent">
+  <h2>Software-development</h2>
 
   <table>
     <tr>
@@ -119,4 +147,4 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></td>
       </td>
     </tr>
   </table>
-</details>
+</div>
