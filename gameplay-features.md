@@ -4,6 +4,9 @@ author: hudsonmiears
 layout: page
 permalink: /portfolio/
 ---
+This is where I share gifs and demos of what I’ve been working on!
+
+I’m happy to share the source code for any of these projects if you like, just let me know at hudson@hudsonmiears.com!
 
 <details>
   <summary>Movement</summary>
