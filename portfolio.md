@@ -4,7 +4,7 @@ title: Portfolio
 date: 2019-07-09T12:02:07+00:00
 author: hudsonmiears
 layout: page
-permalink: /portfolio/
+permalink: /portfolio-old/
 guid: https://hudsonmiears.com/?page_id=169
 ---
 This is where I share gifs and demos of what I've been working on!

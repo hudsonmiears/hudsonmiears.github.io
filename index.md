@@ -6,7 +6,7 @@ author: hudsonmiears
 layout: page
 guid: http://hudsonmiears.com/?page_id=19
 ---
-I'm a Unity programmer, and I've been working with Unity for almost three years now. It's been a thrilling journey self-teaching the art of game development.
+I'm a gameplay programmer, and I've been working with Unity for more than three years now. It's been a thrilling journey self-teaching the art of game development.
 
 On this website you'll find a blog with dev logs and a couple of posts about game design. You can find a neat collection of my projects on my [portfolio](/portfolio/).
 
