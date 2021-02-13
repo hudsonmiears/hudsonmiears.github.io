@@ -8,10 +8,10 @@ This is where I share gifs and demos of what I’ve been working on!
 
 I’m happy to share the source code for any of these projects if you like, just let me know at hudson@hudsonmiears.com!
 
-C<em>lick on any of the tabs below to see some footage.</em>
+<em>Click on any of the tabs below to see some footage.</em>
 
 <script src="{{ base.url | prepend: site.url }}/demos/tabs.js"></script>
-<link rel="stylesheet" href="/demos/tabs.css">
+<link rel="stylesheet" href="{{ base.url | prepend: site.url }}/demos/tabs.css">
 
 <div class="tab">
   <button class="tablinks" onclick="openSection(event, 'Movement')" id="defaultOpen">Movement</button>
