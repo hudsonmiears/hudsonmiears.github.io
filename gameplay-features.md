@@ -2,7 +2,7 @@
 title: Things I've made
 author: hudsonmiears
 layout: page
-permalink: /portfolio/
+permalink: /portfolio-new/
 ---
 This is where I share gifs and demos of what I’ve been working on!
 

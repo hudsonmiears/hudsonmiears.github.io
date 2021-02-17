@@ -4,7 +4,7 @@ title: Portfolio
 date: 2019-07-09T12:02:07+00:00
 author: hudsonmiears
 layout: page
-permalink: /portfolio-old/
+permalink: /portfolio/
 guid: https://hudsonmiears.com/?page_id=169
 ---
 This is where I share gifs and demos of what I've been working on!
@@ -30,7 +30,9 @@ At the beginning of the year I spent several weeks prototyping some fun karting 
 
 ### Cabooze
 
-![](/wp-content/uploads/2020/09/cinemachineshowoff.gif)
+<video preload="metadata"  loop="loop" width="100%" height="512" controls >
+  <source src="/demos/CaboozeDemoJanuaryMp4.mp4" type="video/mp4">
+</video>
 Cabooze features fun use of cinemachine cameras and point-and-click movement.
 
 Cabooze is my ongoing project which I've been documenting with dev logs on my YouTube channel. The end goal is to create a short, narrative game inspired by Spiritfarer, Paper Mario, and classic Point-and-clicks. The game will feature small minigames to represent different steps in the beer-brewing process. Keep up to date [here](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg?view_as=subscriber).
@@ -48,8 +50,6 @@ Before I created the rolling ball motorcycle controller above, I experimented wi
 ![](/wp-content/uploads/2019/07/thirdpersoncameracontroller.gif)
 
 Cameras are important in games, and I think about them a lot. In this demo I wanted to see what it would take to create a _good_ third person camera controller, inspired by [this talk by John Nesky](https://youtu.be/C7307qRmlMI). I did this while trying to emulate the movement of the old Star Fox games.
-
-The movement itself is achieved my aiming the ship at a target with an offset ahead of the ship. There's some artificial rolling there, too.
 
 The camera moves in relation with the ship's movements. In addition, I used the idea of raycast &#8216;whiskers' from the talk. This way, the camera moves away from obstructions that it anticipates ahead of the ship. If you move too close to a wall, the camera moves away from it. It also averages this obstruction avoidance so that it centers out in narrow corridors.
 
