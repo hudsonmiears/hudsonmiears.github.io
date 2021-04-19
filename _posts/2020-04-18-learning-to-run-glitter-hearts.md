@@ -1,5 +1,5 @@
 ---
-title: Hearts of Gemstones: Learning to run Glitter Hearts
+title: Learning to run Glitter Hearts
 author: hudsonmiears
 layout: post
 permalink: /learning-to-run-glitter-hearts/
