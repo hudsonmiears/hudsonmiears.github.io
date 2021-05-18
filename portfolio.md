@@ -28,22 +28,20 @@ Driving on the wall | Local splitscreen
 
 At the beginning of the year I spent several weeks prototyping some fun karting movement in Unity based on a technique described by [Kenney](https://twitter.com/kenneynl/status/1107783904784715788?lang=en). The results are super satisfying and I would really love to turn this into a Diddy Kong Racing-style racing adventure game one day, given the opportunity.
 
-### Cabooze
+### Narrative-driven mechanics
 
 <video preload="metadata"  loop="loop" width="100%" height="512" controls >
   <source src="/demos/CaboozeDemoJanuaryMp4.mp4" type="video/mp4">
 </video>
 Cabooze features fun use of cinemachine cameras and point-and-click movement.
 
-Cabooze is my ongoing project which I've been documenting with dev logs on my YouTube channel. The end goal is to create a short, narrative game inspired by Spiritfarer, Paper Mario, and classic Point-and-clicks. The game will feature small minigames to represent different steps in the beer-brewing process. Keep up to date [here](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg?view_as=subscriber).
+Cabooze is an exploration of beautiful, narrative-driven mechanics. The movement is point-and-click and the camera responds dynamically to the player's position in the scene. The demo also uses the ink scripting language to power dialogue, as well as dynamic post-processing effects and lighting to give a time-of-day effect.
 
-### Hoverbike Demo
+### Eels
 
-<video autoplay="autoplay" loop="loop" width="100%" height="512" controls >
-  <source src="/wp-content/uploads/2019/07/smoothernow.mp4" type="video/mp4">
-</video>
+![Eels](/media/workingprototype.gif)
 
-Before I created the rolling ball motorcycle controller above, I experimented with using hover car physics, ie. adding upward forces to the motorcycle based on raycasts aimed at the ground. The results were pretty satisfying, but too bouncy for my tastes. Nevertheless I can see this being a fun, sci-fi style bike controller for a future project.
+I'm currently working on an arcade game for mobile inspired by a combination of classic Snake and Tetris. The snake you control freezes when it touches the center or another frozen snake, and the objective is to fill out concentric rings of blocks around the middle. It's been super fun to develop and polish.
 
 ### Third Person Camera Controller.
 
