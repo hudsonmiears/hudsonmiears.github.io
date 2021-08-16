@@ -13,20 +13,11 @@ I'm happy to share the source code for any of these projects if you like, just l
 
 ## Gameplay
 
-### Roller Ball Kart Demo
+### Eels
 
------|-----
-![Loop-de-loops](/wp-content/uploads/2020/09/kart_racer_v_0_0_3_loop.gif)|![Countersteering](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_countersteering-2.gif)
-Loop-de-loops | Countersteering
-![Driving on the wall](/wp-content/uploads/2020/09/kart_racer_v_0_0_7_driving_on_wall-1.gif)|![Local splitscreen](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_splitscreen-3.gif)
-Driving on the wall | Local splitscreen
+![Eels](/media/eelsdemo.gif)
 
-
-<p class="has-medium-font-size">
-  <a href="https://reizoukin.itch.io/kart-racer-demos">Play Here</a>
-</p>
-
-At the beginning of the year I spent several weeks prototyping some fun karting movement in Unity based on a technique described by [Kenney](https://twitter.com/kenneynl/status/1107783904784715788?lang=en). The results are super satisfying and I would really love to turn this into a Diddy Kong Racing-style racing adventure game one day, given the opportunity.
+I'm currently working on an arcade game for mobile inspired by a combination of classic Snake and Tetris. The snake you control freezes when it touches the center or another frozen snake, and the objective is to fill out concentric rings of blocks around the middle. The game is targeted for mobile and desktop release by the end of 2021.
 
 ### Narrative-driven mechanics
 
@@ -36,12 +27,6 @@ At the beginning of the year I spent several weeks prototyping some fun karting 
 Cabooze features fun use of cinemachine cameras and point-and-click movement.
 
 Cabooze is an exploration of beautiful, narrative-driven mechanics. The movement is point-and-click and the camera responds dynamically to the player's position in the scene. The demo also uses the ink scripting language to power dialogue, as well as dynamic post-processing effects and lighting to give a time-of-day effect.
-
-### Eels
-
-![Eels](/media/workingprototype.gif)
-
-I'm currently working on an arcade game for mobile inspired by a combination of classic Snake and Tetris. The snake you control freezes when it touches the center or another frozen snake, and the objective is to fill out concentric rings of blocks around the middle. It's been super fun to develop and polish.
 
 ### Third Person Camera Controller.
 
@@ -67,24 +52,6 @@ UI in Unity has always been a struggle for me, so I decided to go all in on a co
 
 This was another, earlier attempt to learn UI in Unity, and I think the results speak for themselves. All of this is built with the standard Unity UI and a render texture; the phone's clock comes from the System time.
 
-## Other stuff
-
-### ARCore + Unity Dissertation Project
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=b8h-r0bhitY
-" target="_blank"><img src="http://img.youtube.com/vi/b8h-r0bhitY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-_This video demonstrates uploading and downloading object positions to and from the cloud._
-
-My dissertation project was well documented, and you can find dev logs for it [on my blog](https://hudsonmiears.com/blog/). On the Unity side of things, the challenge was to develop an AR experience that keeps objects consistently in the same place in a small environment. 
-
-The project as a whole focused on UX design and phenomenology. As I move into the future, I'm certainly interested in pursuing these ideas further and in different directions!
-
-### ArcGIS Runtime SDK &#8211; Android samples
-
-For the first six months at my current job, I worked on the ArcGIS Runtime SDK for Android Samples team. Many of the Kotlin samples were written by me. A challenge on this team was writing samples that were minimalistic and didn't include too much non-ArcGIS code, while also keeping UI intuitive and straightforward to use. I introduced some new techniques from Material design for this, such as the morphing FAB and bottom sheets, as well as some Kotlin-y techniques for front-loading the samples with ArcGIS code. I'm particularly proud of these samples: [1](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/manage-operational-layers), [2](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/find-route), and [3](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/group-layers).
-
 ### Game Jam Games
 
 Game jams are great, and I've had a lot of fun participating in Ludum Dare, Global Game Jam, and others through my development journey.
@@ -102,3 +69,36 @@ Above is our entry to the Wholesome Game Jam, a 48 hour jam in October 2020. I w
 **[Hug Me I'm Cold](https://reizoukin.itch.io/hug-me-im-cold)**, a short survival game where wearing too many sweaters to keep yourself warm also slows you down.
 
 **[Oh no!](https://quietaria.itch.io/oh-no-the-sky-is-falling)**, a multiplayer turn-based combat game where you have to claim land and destroy enemy balloons.
+
+### Roller Ball Kart Demo
+
+-----|-----
+![Loop-de-loops](/wp-content/uploads/2020/09/kart_racer_v_0_0_3_loop.gif)|![Countersteering](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_countersteering-2.gif)
+Loop-de-loops | Countersteering
+![Driving on the wall](/wp-content/uploads/2020/09/kart_racer_v_0_0_7_driving_on_wall-1.gif)|![Local splitscreen](/wp-content/uploads/2020/09/kart_racer_v_0_0_5_splitscreen-3.gif)
+Driving on the wall | Local splitscreen
+
+
+<p class="has-medium-font-size">
+  <a href="https://reizoukin.itch.io/kart-racer-demos">Play Here</a>
+</p>
+
+At the beginning of the year I spent several weeks prototyping some fun karting movement in Unity based on a technique described by [Kenney](https://twitter.com/kenneynl/status/1107783904784715788?lang=en). The results are super satisfying and I would really love to turn this into a Diddy Kong Racing-style racing adventure game one day, given the opportunity.
+
+## Other stuff
+
+### ARCore + Unity Dissertation Project
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b8h-r0bhitY
+" target="_blank"><img src="http://img.youtube.com/vi/b8h-r0bhitY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+_This video demonstrates uploading and downloading object positions to and from the cloud._
+
+My dissertation project was well documented, and you can find dev logs for it [on my blog](https://hudsonmiears.com/blog/). On the Unity side of things, the challenge was to develop an AR experience that keeps objects consistently in the same place in a small environment. 
+
+The project as a whole focused on UX design and phenomenology. As I move into the future, I'm certainly interested in pursuing these ideas further and in different directions!
+
+### ArcGIS Runtime SDK &#8211; Android samples
+
+For the first six months at my current job, I worked on the ArcGIS Runtime SDK for Android Samples team. Many of the Kotlin samples were written by me. A challenge on this team was writing samples that were minimalistic and didn't include too much non-ArcGIS code, while also keeping UI intuitive and straightforward to use. I introduced some new techniques from Material design for this, such as the morphing FAB and bottom sheets, as well as some Kotlin-y techniques for front-loading the samples with ArcGIS code. I'm particularly proud of these samples: [1](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/manage-operational-layers), [2](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/find-route), and [3](https://github.com/Esri/arcgis-runtime-samples-android/tree/master/kotlin/group-layers).

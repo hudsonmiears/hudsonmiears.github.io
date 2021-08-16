@@ -10,8 +10,6 @@ I'm a gameplay programmer, and I've been working with Unity for more than three 
 
 On this website you'll find a blog with dev logs and a couple of posts about game design. You can find a neat collection of my projects on my [portfolio](/portfolio/).
 
-I'm currently a Software Development Engineer at Esri. I work on the ArcGIS Runtime SDK, making code samples for Android and doing code health improvements in C++.
+I'm currently a Software Development Engineer at Esri. I work on the ArcGIS Runtime SDK for Android, using Java, Kotlin, and C++ to create performance-critical GIS tooling for developers.
 
-Most recently, I've been working on a short narrative game about identity, productivity, and brewing beer. I've made [a couple of videos about it on Youtube](https://www.youtube.com/channel/UCpHSXFLxATDubOAje6dDKeg?view_as=subscriber).
-
-If you want to talk to me about anything, send me an email at hudson@hudsonmiears.com or contact me on Discord @reizoukin.
+If you want to talk to me about anything, send me an email at hudson@hudsonmiears.com.
